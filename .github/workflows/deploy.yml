@@ -1,8 +1,9 @@
-name: Deploy React site to GitHub Pages
+name: Deploy React app to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
 
 permissions:
   contents: read
@@ -32,11 +33,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload artifact
+      - name: Upload build
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
 
       - name: Deploy
-        id: deployment
         uses: actions/deploy-pages@v4
