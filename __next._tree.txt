@@ -1,2 +1,2 @@
-:HL["/SachinWedsNikita/_next/static/chunks/1lbktzbi37b09.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"9oABFdwXVRFQSqLWf7MUd"}
+:HL["/SachinWedsNikita/_next/static/chunks/2nd-wcoltk8xi.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"CVJ369EL563mZ1OxWNQf2"}
