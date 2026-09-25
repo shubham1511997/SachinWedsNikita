@@ -75,7 +75,7 @@ export default function Page() {
         className="relative flex min-h-screen items-center justify-center px-6 pt-20 text-center"
         style={{
           position: "relative",
-          backgroundImage: "url('/hero_bg.png')",
+          backgroundImage: "url('/SachinWedsNikita/hero_bg.png')",
           backgroundPosition: "center",
           overflow: "hidden",
         }}
